@@ -1,0 +1,40 @@
+
+        /* CSS by tag name */
+        h1{
+            color: rgb(216, 180, 33);
+            background-color: rgb(131, 8, 8);
+        }
+
+        /* CSS BY CLASSNAME */
+        .preClass
+        {
+            background-color: brown !important;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: small;
+            color: white;
+        }
+        .secondPara
+        {
+            font-size: xx-large;  
+            background-color: rgb(50, 22, 114);  
+        }
+
+        #secondPara
+        {
+            background-color: rgb(41, 16, 82);
+            
+            
+        }
+        #image_b
+        {
+            height: 400px;
+            width: 400px;
+            background-image: url('https://cdsn.pixabay.com/photo/2015/04/23/22/00/new-year-background-736885_1280.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: 3px solid #444;
+            border-radius: 8px;
+            padding: 50px;
+        }
+
